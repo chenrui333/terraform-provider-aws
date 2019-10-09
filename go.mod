@@ -29,7 +29,7 @@ require (
 	github.com/hashicorp/hil v0.0.0-20170512213305-fac2259da677 // indirect
 	github.com/hashicorp/logutils v1.0.0 // indirect
 	github.com/hashicorp/terraform v0.11.9-beta1
-	github.com/hashicorp/vault v0.10.4
+	github.com/hashicorp/vault v0.11.6
 	github.com/hashicorp/yamux v0.0.0-20160720233140-d1caa6c97c9f // indirect
 	github.com/jen20/awspolicyequivalence v1.0.0
 	github.com/keybase/go-crypto v0.0.0-20161004153544-93f5b35093ba // indirect
