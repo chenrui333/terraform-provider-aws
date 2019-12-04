@@ -31,7 +31,7 @@ require (
 	github.com/hashicorp/terraform v0.11.9-beta1
 	github.com/hashicorp/vault v0.10.4
 	github.com/hashicorp/yamux v0.0.0-20160720233140-d1caa6c97c9f // indirect
-	github.com/jen20/awspolicyequivalence v1.0.0
+	github.com/jen20/awspolicyequivalence v1.1.0
 	github.com/keybase/go-crypto v0.0.0-20161004153544-93f5b35093ba // indirect
 	github.com/kylelemons/godebug v0.0.0-20170820004349-d65d576e9348 // indirect
 	github.com/mattn/go-isatty v0.0.4 // indirect
