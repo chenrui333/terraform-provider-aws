@@ -19,7 +19,7 @@ require (
 	github.com/hashicorp/go-cleanhttp v0.5.0
 	github.com/hashicorp/go-getter v0.0.0-20180327010114-90bb99a48d86 // indirect
 	github.com/hashicorp/go-hclog v0.0.0-20171005151751-ca137eb4b438 // indirect
-	github.com/hashicorp/go-multierror v1.0.0
+	github.com/hashicorp/go-multierror v1.1.0
 	github.com/hashicorp/go-plugin v0.0.0-20170816151819-a5174f84d7f8 // indirect
 	github.com/hashicorp/go-safetemp v1.0.0 // indirect
 	github.com/hashicorp/go-uuid v1.0.0 // indirect

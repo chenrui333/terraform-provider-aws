@@ -39,6 +39,8 @@ github.com/hashicorp/go-hclog v0.0.0-20171005151751-ca137eb4b438 h1:HW1KChQ892af
 github.com/hashicorp/go-hclog v0.0.0-20171005151751-ca137eb4b438/go.mod h1:9bjs9uLqI8l75knNv3lV1kA55veR+WUPSiKIWcQHudI=
 github.com/hashicorp/go-multierror v1.0.0 h1:iVjPR7a6H0tWELX5NxNe7bYopibicUzc7uPribsnS6o=
 github.com/hashicorp/go-multierror v1.0.0/go.mod h1:dHtQlpGsu+cZNNAkkCN/P3hoUDHhCYQXV3UM06sGGrk=
+github.com/hashicorp/go-multierror v1.1.0 h1:B9UzwGQJehnUY1yNrnwREHc3fGbC2xefo8g4TbElacI=
+github.com/hashicorp/go-multierror v1.1.0/go.mod h1:spPvp8C1qA32ftKqdAHm4hHTbPw+vmowP0z+KUhOZdA=
 github.com/hashicorp/go-plugin v0.0.0-20170816151819-a5174f84d7f8 h1:1M/vS848XLVjNyE7waQYdRErztf5MU33jo5IPBfzLag=
 github.com/hashicorp/go-plugin v0.0.0-20170816151819-a5174f84d7f8/go.mod h1:JSqWYsict+jzcj0+xElxyrBQRPNoiWQuddnxArJ7XHQ=
 github.com/hashicorp/go-safetemp v1.0.0 h1:2HR189eFNrjHQyENnQMMpCiBAsRxzbTMIgBhEyExpmo=
