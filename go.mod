@@ -55,5 +55,5 @@ require (
 	golang.org/x/text v0.0.0-20171024115504-6eab0e8f74e8 // indirect
 	google.golang.org/genproto v0.0.0-20171002232614-f676e0f3ac63 // indirect
 	google.golang.org/grpc v0.0.0-20171025225919-b5eab4ccac6d // indirect
-	gopkg.in/yaml.v2 v2.2.1
+	gopkg.in/yaml.v2 v2.3.0
 )
