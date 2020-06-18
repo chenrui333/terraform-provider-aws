@@ -23,7 +23,7 @@ require (
 	github.com/hashicorp/go-plugin v0.0.0-20170816151819-a5174f84d7f8 // indirect
 	github.com/hashicorp/go-safetemp v1.0.0 // indirect
 	github.com/hashicorp/go-uuid v1.0.0 // indirect
-	github.com/hashicorp/go-version v1.0.0
+	github.com/hashicorp/go-version v1.2.1
 	github.com/hashicorp/hcl v0.0.0-20170504190234-a4b07c25de5f // indirect
 	github.com/hashicorp/hcl2 v0.0.0-20171003232734-44bad6dbf549 // indirect
 	github.com/hashicorp/hil v0.0.0-20170512213305-fac2259da677 // indirect
