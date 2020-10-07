@@ -6,7 +6,7 @@ require (
 	github.com/apparentlymart/go-cidr v1.0.0 // indirect
 	github.com/apparentlymart/go-textseg v1.0.0 // indirect
 	github.com/armon/go-radix v1.0.0 // indirect
-	github.com/aws/aws-sdk-go v1.16.25
+	github.com/aws/aws-sdk-go v1.35.4
 	github.com/beevik/etree v1.0.1
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bgentry/speakeasy v0.1.0 // indirect
@@ -48,12 +48,8 @@ require (
 	github.com/terraform-providers/terraform-provider-tls v0.1.0
 	github.com/ulikunitz/xz v0.5.4 // indirect
 	github.com/zclconf/go-cty v0.0.0-20180106055834-709e4033eeb0 // indirect
-	golang.org/x/crypto v0.0.0-20180110145155-b3c9a1d25cfb // indirect
-	golang.org/x/net v0.0.0-20171024115130-4b14673ba32b // indirect
 	golang.org/x/sync v0.0.0-20181221193216-37e7f081c4d4 // indirect
-	golang.org/x/sys v0.0.0-20170803140359-d8f5ea21b929 // indirect
-	golang.org/x/text v0.0.0-20171024115504-6eab0e8f74e8 // indirect
 	google.golang.org/genproto v0.0.0-20171002232614-f676e0f3ac63 // indirect
 	google.golang.org/grpc v0.0.0-20171025225919-b5eab4ccac6d // indirect
-	gopkg.in/yaml.v2 v2.2.1
+	gopkg.in/yaml.v2 v2.2.8
 )
