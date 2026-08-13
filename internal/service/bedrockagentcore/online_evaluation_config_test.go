@@ -518,6 +518,8 @@ resource "aws_bedrockagentcore_online_evaluation_config" "test" {
   tags = {
     %[2]q = %[3]q
   }
+
+  depends_on = [aws_iam_role_policy.test]
 }
 `, rName, tag1Key, tag1Value))
 }
@@ -550,6 +552,8 @@ resource "aws_bedrockagentcore_online_evaluation_config" "test" {
     %[2]q = %[3]q
     %[4]q = %[5]q
   }
+
+  depends_on = [aws_iam_role_policy.test]
 }
 `, rName, tag1Key, tag1Value, tag2Key, tag2Value))
 }
@@ -578,6 +582,8 @@ resource "aws_bedrockagentcore_online_evaluation_config" "test" {
       sampling_percentage = 10.0
     }
   }
+
+  depends_on = [aws_iam_role_policy.test]
 }
 `, rName, executionStatus))
 }
@@ -618,6 +624,8 @@ resource "aws_bedrockagentcore_online_evaluation_config" "test" {
       session_timeout_minutes = 20
     }
   }
+
+  depends_on = [aws_iam_role_policy.test]
 }
 `, rName))
 }
