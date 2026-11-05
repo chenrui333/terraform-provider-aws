@@ -1,0 +1,18 @@
+.github/workflows/jw-release.yml
+  h_9df9c32c3f321d 1-225
+README.md
+  h_9df9c32c3f321d 1-27
+jw-release.json
+  h_9df9c32c3f321d 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3063b86a9d6bb10797397741181f79d7257f8e9d",
+  "prompts": {},
+  "humans": {
+    "h_9df9c32c3f321d": {
+      "author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
