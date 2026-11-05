@@ -1,0 +1,19 @@
+internal/service/rds/instance_test.go
+  s_15dce35e58de45::t_862625e18bccf0 15460
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d0939b91dafcd9c0abcc166db653b491ce63cb26",
+  "prompts": {},
+  "sessions": {
+    "s_15dce35e58de45": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0ca89-f088-7e51-b624-015796e9ce71",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}

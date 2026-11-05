@@ -1,0 +1,26 @@
+internal/service/rds/instance_test.go
+  s_3a4350aa4dd419::t_74d8c087d3cc1a 15500-15501,15505
+internal/service/rds/instance.go
+  s_3a4350aa4dd419::t_190cfcee47d27b 327-333
+internal/service/rds/instance_diff_test.go
+  s_3a4350aa4dd419::t_bc3483c7eaf537 156
+  s_3a4350aa4dd419::t_2c361f695f3340 6-12
+  s_3a4350aa4dd419::t_7d4135eda59af5 140-153
+  s_3a4350aa4dd419::t_7385c425de5bdb 76-139,154-155,157-202
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "191b0bd33d68ffeba65c0c3bf6fdacb810e3d991",
+  "prompts": {},
+  "sessions": {
+    "s_3a4350aa4dd419": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "41e33eaf-c0b5-42be-98a4-9905365352b2",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
